@@ -1,4 +1,4 @@
 [submodule "TTS"]
 	path = TTS
-	url = https://github.com/thinhlpg/TTS.git
-	branch = add-vietnamese-xtts
+	url = git@github.com:trungdt0/TTS.git
+	branch = master
