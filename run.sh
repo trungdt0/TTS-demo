@@ -30,7 +30,7 @@ if python$PYTHON_VERSION --version &> /dev/null; then
         git submodule update --init --recursive && \
         cd TTS && \
         git fetch --tags && \
-        git checkout 0.1.1 && \
+        git checkout master && \
         echo "Installing TTS..." && \
         pip install --use-deprecated=legacy-resolver -e . -q && \
         cd .. && \
