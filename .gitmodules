@@ -1,4 +1,4 @@
 [submodule "TTS"]
 	path = TTS
-	url = git@github.com:trungdt0/TTS.git
+	url = git@github.com:trungdtt/TTS.git
 	branch = master
